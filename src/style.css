@@ -69,3 +69,7 @@ footer {
 a {
   color: hsl(324, 45%, 68%);
 }
+
+.poem strong {
+  color: hsl(324, 45%, 68%);
+}
